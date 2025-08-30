@@ -20,7 +20,7 @@ ls
 ![img2](imgs/img2.png)
 
 ```
-Your answer here
+touch
 ```
 --- 
 
