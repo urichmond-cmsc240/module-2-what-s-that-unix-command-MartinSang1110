@@ -52,7 +52,7 @@ grep
 ![img6](imgs/img6.png)
 
 ```
-Your answer here
+find
 ```
 --- 
 
