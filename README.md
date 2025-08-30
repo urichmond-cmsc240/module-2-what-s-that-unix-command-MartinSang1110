@@ -28,7 +28,7 @@ touch
 ![img3](imgs/img3.png)
 
 ```
-Your answer here
+rm
 ```
 --- 
 
