@@ -60,6 +60,7 @@ find
 ![img6](imgs/img7.png)
 
 ```
-Your answer here
+chmod +x necromancer.sh
+./necromancer.sh
 ```
 --- 
